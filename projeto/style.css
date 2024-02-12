@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(imagens/fundo-madeira.jpg) fixed no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+div{
+    position: absolute;
+    padding: 100%;
+}
+div#iphone{
+
+}
