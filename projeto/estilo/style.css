@@ -33,8 +33,8 @@ iframe#tela{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 268px;
-    height: 476px;
+    width: 271px;
+    height: 479px;
     background-color: blue;
 }
 section#redes-sociais{
@@ -54,4 +54,16 @@ section#redes-sociais img:hover{
     border: 3px solid rgba(255, 255, 255, 0.432);
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
     transition: width 0.4s,border 0.7s ;
+}
+footer{
+    position: absolute;
+    top: 98%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 319px;
+    font-size: 1em;
+}
+footer > p{
+    color: rgba(255, 255, 255, 0.301);
+    font-weight: bolder;
 }
